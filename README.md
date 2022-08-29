@@ -1,6 +1,7 @@
 <h1 align="center">Hi 🤝, I'm Patrícia Gomes</h1>
 <h3 align="center">A .Net full stack web developer from Portugal</h3>
 
+
 - 🔭 I’m currently working on **HCCM Consulting**
 
 - 🌱 I’m currently deepening knowledge **React, MongoDB**
@@ -13,9 +14,11 @@
 
 - ⚡ Fun fact **I'm a futsal team goalkeeper and I'm the assistant coach of a futsal certified training team**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
