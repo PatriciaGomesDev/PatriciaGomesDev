@@ -9,7 +9,7 @@
 <br>
 - 📫 How to reach me **patriciagomesdeveloper@gmail.com**
 <br>
-- 📄 Know about me and my experiences [https://patriciagomesdeveloper.pt/](https://patriciagomesdeveloper.pt/)
+- 📄 Know about me and my experiences https://patriciagomesdeveloper.pt
 <br>
 - ⚡ Fun fact **I'm a futsal team goalkeeper and I'm the assistant coach of a futsal certified training team**
 <br>
